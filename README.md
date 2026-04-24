@@ -9,5 +9,5 @@
 - Score System / High Score - Dai
 - Core Game Start / Stop / Reset - Audrey*
 - Basic Art Assets - Chapman*
-- Power-ups / buffs - Raymond
+- Power-ups / buffs - Raymond*
 - Multiple Chars that unlock - Kasey
