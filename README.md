@@ -4,7 +4,7 @@
 - Moving Obstacles in a lane - Sean
 - Audio: Sound Effects - Kennedy
 - Audio: Environmental Music
-- Collision detection - Nilo
+- Collision detection - Nilo*
 - Player Economy - Alex
 - Score System / High Score - Dai
 - Core Game Start / Stop / Reset - Audrey
